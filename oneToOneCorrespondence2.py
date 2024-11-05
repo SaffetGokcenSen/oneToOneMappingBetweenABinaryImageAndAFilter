@@ -1,4 +1,4 @@
-# gradient descent optimization with weighting
+# gradient descent optimization with weighing
 
 import numpy as np 
 from itertools import product 
